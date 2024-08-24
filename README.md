@@ -95,3 +95,7 @@ Ctrl + C
 
 ![Countries List View - Light Mode](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-1-light.jpg)
 ![Countries List View - Dark Mode](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-2-dark.jpg)
+![Countries Search](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-3.jpg)
+![Country Detail View](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-4.jpg)
+![Add Travel Plan to Selected Country](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-5.jpg)
+![Travel Plans List View](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-6.jpg)
