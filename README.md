@@ -92,3 +92,6 @@ Ctrl + C
 ```
 
 7. ### FEW Screenshots Attached
+
+![Countries List View - Light Mode](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-1-light.jpg)
+![Countries List View - Dark Mode](https://github.com/hafizmuhammadfarooq786/ocloud-solutions-frontend-react-native/blob/master/screenshots/Screenshot-2-dark.jpg)
