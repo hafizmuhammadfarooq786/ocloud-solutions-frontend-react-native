@@ -38,11 +38,11 @@ const CountryListScreen: React.FC<any> = ({ navigation }) => {
     GET_COUNTRIES,
     {
       variables: { filter: {} },
-    }
+    },
   );
 
   const filteredCountries = data?.countries?.filter((country) =>
-    country.name.toLowerCase().includes(searchText.toLowerCase())
+    country.name.toLowerCase().includes(searchText.toLowerCase()),
   );
 
   return (

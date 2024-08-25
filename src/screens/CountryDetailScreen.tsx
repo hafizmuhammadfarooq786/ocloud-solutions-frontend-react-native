@@ -47,8 +47,10 @@ const CountryDetailScreen: React.FC<Props> = ({ route, navigation }) => {
   const { loading, data } = useQuery<GetCountryData, GetCountryVars>(
     GET_COUNTRY_DETAILS,
     {
-      variables: { code },
-    }
+      variables: {
+        code,
+      },
+    },
   );
 
   if (loading) {
